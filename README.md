@@ -1,5 +1,7 @@
 ![image](imgs/better-study-workflow.png)
 
+## Intro
+
 This repository is dedicated to the ongoing pursuit of an optimized study workflow.
 Harnessing the collaborative power of people, science, and the latest technology and tools, let's endeavor to create a better, more efficient way to study and become better learners. While the workflow is primarily tailored to tech-savvy people, any brave soul can implement it.
 
