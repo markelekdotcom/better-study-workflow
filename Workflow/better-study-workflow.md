@@ -36,4 +36,5 @@ The workflow file is an Obsidian canvas file and can be found in the [Workflow](
     - if you're storing a sizable amounts of larger files, it might be a good idea to use a cloud storage service like Google Drive or Dropbox with an *Attachments* folder in your Obsidian vault
     - alternatively, you can just make local backups of your vault
 
-
+- Ensure you get sufficient and quality sleep
+    - [Theory](../Theory/sleep.md)
