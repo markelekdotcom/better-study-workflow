@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"99cbf0692526fdcc","type":"text","text":"Knowledge","x":-500,"y":-700,"width":250,"height":60},
+		{"id":"63b356b38a1190b0","type":"text","text":"Anki\n`Spaced repetition`\n`Retrieval practice`","x":-160,"y":-670,"width":250,"height":110},
+		{"id":"54e0df3fa6185941","type":"text","text":"Obsidian\n`Note-taking`\n`Note-making`","x":-500,"y":-580,"width":250,"height":110},
+		{"id":"7c1240f519d82d5a","type":"text","text":"AI Test Generator\n`Practice testing`","x":-160,"y":-500,"width":250,"height":110},
+		{"id":"f956282b372236fc","type":"text","text":"Backup","x":-500,"y":-390,"width":250,"height":60},
+		{"id":"79bd8bb1d52d3871","type":"text","text":"Obsidian Sync ($)","x":-750,"y":-140,"width":250,"height":60},
+		{"id":"cc9f5ba236189c36","type":"text","text":"Github","x":-250,"y":-140,"width":250,"height":60},
+		{"id":"7390134700545219","type":"text","text":"Digital Note-taking\n`Key points / notes`","x":-500,"y":120,"width":250,"height":80},
+		{"id":"857d6df7bdf44474","type":"text","text":"Snippets","x":-930,"y":255,"width":250,"height":55},
+		{"id":"e82cf0d4c4adfe0d","type":"text","text":"Note-making\n`Retrieval practice`","x":-500,"y":370,"width":250,"height":70},
+		{"id":"c88d115dfff6cab1","type":"text","text":"Anki\n`Spaced repetition`\n`Retrieval practice`","x":-500,"y":620,"width":250,"height":100},
+		{"id":"3959788015d3e304","type":"text","text":"Classical Note-taking\n`Key points / notes`","x":-95,"y":120,"width":250,"height":80},
+		{"id":"d72e1213c6481ce8","type":"text","text":"Templates","x":55,"y":370,"width":250,"height":60},
+		{"id":"2d18ae359159be49","type":"text","text":"Main Note Template\n- Key points / Important notes\n- Questions\n- Summary","x":30,"y":500,"width":300,"height":180},
+		{"id":"ec40cad553539108","type":"text","text":"ChatGPT","x":155,"y":-475,"width":250,"height":60},
+		{"id":"73c331f619d4f6cf","type":"text","text":"Focus","x":-370,"y":-1240,"width":250,"height":80},
+		{"id":"7375acb8583e23f4","type":"text","text":"Manage Focused Study Sessions","x":-95,"y":-930,"width":250,"height":60},
+		{"id":"d90d24fe7e7f4f13","type":"text","text":"Avoid Distracting Websites","x":-620,"y":-930,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"ecb4fe62e26b2d1e","fromNode":"99cbf0692526fdcc","fromSide":"bottom","toNode":"54e0df3fa6185941","toSide":"top"},
+		{"id":"9e83eca733b9fc24","fromNode":"54e0df3fa6185941","fromSide":"right","toNode":"63b356b38a1190b0","toSide":"left"},
+		{"id":"dc6b204761ecfb61","fromNode":"54e0df3fa6185941","fromSide":"right","toNode":"7c1240f519d82d5a","toSide":"left"},
+		{"id":"aa079bdba225dc69","fromNode":"7390134700545219","fromSide":"bottom","toNode":"e82cf0d4c4adfe0d","toSide":"top"},
+		{"id":"600b302dd8114427","fromNode":"d72e1213c6481ce8","fromSide":"left","toNode":"e82cf0d4c4adfe0d","toSide":"right","label":"Templater addon"},
+		{"id":"3ad4328f3efe9676","fromNode":"2d18ae359159be49","fromSide":"top","toNode":"d72e1213c6481ce8","toSide":"bottom"},
+		{"id":"ad9d0d286d8c224a","fromNode":"857d6df7bdf44474","fromSide":"right","toNode":"7390134700545219","toSide":"left","label":"espanso"},
+		{"id":"e0f79b550b758db5","fromNode":"857d6df7bdf44474","fromSide":"right","toNode":"e82cf0d4c4adfe0d","toSide":"left","label":"espanso"},
+		{"id":"240eb3c1f8d0c727","fromNode":"3959788015d3e304","fromSide":"bottom","toNode":"e82cf0d4c4adfe0d","toSide":"top","label":"Digitized notes"},
+		{"id":"cf4399f7c2b9a76e","fromNode":"e82cf0d4c4adfe0d","fromSide":"bottom","toNode":"c88d115dfff6cab1","toSide":"top","label":"Obsidian_to_Anki addon"},
+		{"id":"b116d662686be725","fromNode":"54e0df3fa6185941","fromSide":"bottom","toNode":"f956282b372236fc","toSide":"top"},
+		{"id":"05d6b73d71456359","fromNode":"f956282b372236fc","fromSide":"bottom","toNode":"79bd8bb1d52d3871","toSide":"top"},
+		{"id":"35fcc7e4ff018f43","fromNode":"f956282b372236fc","fromSide":"bottom","toNode":"cc9f5ba236189c36","toSide":"top","label":"Obsidian Git addon"},
+		{"id":"c50602141e5f49b2","fromNode":"7c1240f519d82d5a","fromSide":"right","toNode":"ec40cad553539108","toSide":"left"},
+		{"id":"24a4b8b405d60f78","fromNode":"73c331f619d4f6cf","fromSide":"bottom","toNode":"d90d24fe7e7f4f13","toSide":"top","label":"Forest browser extension \n($ features)"},
+		{"id":"1f2f422bf8485f30","fromNode":"73c331f619d4f6cf","fromSide":"bottom","toNode":"7375acb8583e23f4","toSide":"top","label":"Pomodoro"}
+	]
+}
