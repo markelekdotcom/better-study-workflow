@@ -16,4 +16,4 @@ Contributions and discussions are welcome and encouraged! Please read the [contr
 - The [Theory](Theory/) folder contains the latest research and ideas behind learning.
 - The [Tools](Tools/) folder contains all the tools that can be used to create a better study workflow.
 - The [Workflow](Workflow/) folder contains the actual study workflow utilizing the tools from the *Tools* folder.
-
+- The [Templates](Templates/) folder contains templates that can be used by the tools in the *Tools* folder.
