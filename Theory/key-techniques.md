@@ -4,7 +4,7 @@
 
 Taking notes can be quite distracting, especially if you copy everything, which is a common mistake among students.
 Write down only the most important points and names of concepts, and pay attention to understanding the material.
-It can be much more effective to engage in note-making later than note-taking at the moment. After taking a concise set of notes, you can later enrich those notes with additional details, like questions and definitions, using the Feynman technique. This way, you will engage in deeper learning processes and improve your understanding of the material.
+It can be much more effective to engage in note-making later than note-taking at the moment. After taking a concise set of notes, you can later enrich those notes with additional details, like questions and definitions, using the [Feynman technique](#feynman-technique). This way, you will engage in deeper learning processes and improve your understanding of the material.
 
 ## Feynman Technique
 
@@ -22,12 +22,13 @@ Reyes, Englevert, Ron Blanco, Defanee Doroon, Jay Limana, and Ana Torcende. “F
 
 ## Summaries
 
-Summarization is not the most effective learning technique by itself, but it can be improved by utilizing other techniques with it, like the Feynman technique.
+Summarization is not the most effective learning technique by itself, but it can be improved by utilizing other techniques with it, like the [Feynman technique](#feynman-technique).
 For example, try to summarize the material in such a way that you simplify the concepts in it as best you can.
 Use your own words. You can refine it later.
+
 This approach additionally leverages the Feynman technique for writing a summary and enables you to engage in deeper-level processes.
 
-Additionally, you can also make this a more effective process by adding active recall (retrieval practice) to the mix.
+Additionally, you can also make this a more effective process by adding active recall ([retrieval practice](#retrieval-practice---active-recall)) to the mix.
 
 ## Practice Testing
 
@@ -37,9 +38,9 @@ Practice testing is a proven and highly effective method to improve learning out
 
 Distributed practice involves spacing out learning sessions instead of attempting to absorb a lot of information in a short amount of time (cramming). This approach leverages the brain's ability to encode information more effectively by encountering the same information repeatedly over time. Adopting this technique will lead to better learning outcomes and information retention.
 
-## Retrieval Practice / Active Recall
+## Retrieval Practice - Active Recall
 
-Retrieval practice involves recalling previously learned information that has been stored and encoded in our memory. Practicing recalling techniques solidifies the neural pathways associated with the recalled information, making it more accessible in the future and strengthening the ability to retain information in the long term.
+Retrieval practice, also known as active recall, involves recalling previously learned information that has been stored and encoded in our memory. Practicing recalling techniques solidifies the neural pathways associated with the recalled information, making it more accessible in the future and strengthening the ability to retain information in the long term.
 
 ## Interleaving
 
