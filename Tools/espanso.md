@@ -3,4 +3,6 @@ It continuously runs in the background and allows you to type a short abbreviati
 
 Given Espanso's usefulness, cost-free availability, and cross-platform and time-saving nature, it is a great tool to have in our productivity arsenal.
 
+Use the Anki snippet template found in the [../Templates](../Templates)  folder to quickly add Anki cards in Obsidian by typing `:anki` and pressing, then export them to Anki by using the *Obsidian_to_Anki addon* for Obsidian.
+
 Link: https://espanso.org/
